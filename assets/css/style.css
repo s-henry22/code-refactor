@@ -83,6 +83,13 @@ header nav ul li a {
     margin: 20px;
 }
 
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
 .service-description h2 {
     margin: 20px;
     font-size: 36px;
@@ -91,18 +98,21 @@ header nav ul li a {
 
 .service-description p {
     font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /* Benefits Section */
-
 .benefits {
     width: 20%;
-    margin: 0px 20px 0px 0px;
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+    overflow: auto;
 }
 
 .benefit {
+    height: 960px;
     background-color: #2589bd;
-
+    color: #ffffff;
 }
 
 /*Style the footer */
