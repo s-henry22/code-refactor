@@ -12,6 +12,11 @@ Given existing source code (HTML, CSS), re-structure the language elements to fo
 * Linked the navigation bar elements to their appropriate section in the webpage.
 * Organized the CSS code.  Added Text headings to each section, made sure the code matched the flow of the HTML sheet, and reduced the number of lines of code by using the class and ID tags in the HTML.
 
+## Website
+https://s-henry22.github.io/code-refactor/
+
+## Contribution
+Made by: Spencer Henry
 
 
 
