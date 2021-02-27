@@ -18,6 +18,10 @@ Given existing source code (HTML, CSS), re-structure the language elements to fo
 
 ![HTML Code Screenshot](assets/images/html-organization-example.JPG)
 
+* Organization of CSS example:
+
+![CSS_Code_Screenshot](assets/images/css-organization-example.JPG)
+
 ## Website
 https://s-henry22.github.io/code-refactor/
 
