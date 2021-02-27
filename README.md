@@ -16,7 +16,7 @@ Given existing source code (HTML, CSS), re-structure the language elements to fo
 
 * Organization of HTML code with text and semantic headings:
 
-![HTML Code Screenshot}(https://github.com/s-henry22/code-refactor/main/assets/images/html-organization-example.jpg)
+![HTML Code Screenshot}(./assets/images/html-organization-example.jpg)
 
 ## Website
 https://s-henry22.github.io/code-refactor/
